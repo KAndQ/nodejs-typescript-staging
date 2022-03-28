@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-typescript-staging",
+  "version": "1.0.0",
+  "description": "Nodejs typescript staging.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KAndQ/nodejs-typescript-staging.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KAndQ/nodejs-typescript-staging/issues"
+  },
+  "homepage": "https://github.com/KAndQ/nodejs-typescript-staging#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.23",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  }
+}
